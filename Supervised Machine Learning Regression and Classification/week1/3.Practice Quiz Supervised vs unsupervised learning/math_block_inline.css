@@ -1,0 +1,9 @@
+.math-block > mjx-container[jax="CHTML"]  {
+    font-size: 130%;
+    color: orange;
+    }
+
+.math-inline > mjx-container[jax="CHTML"]  {
+    font-size: 110%;
+    color: rgb(217,248,254) !important;
+    }
